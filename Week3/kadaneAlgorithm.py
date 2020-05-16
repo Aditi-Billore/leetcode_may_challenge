@@ -1,4 +1,4 @@
-#maximum ssum subarray using kedane's algorithm
+#maximum sum subarray using kedane's algorithm
 
 def maximumSubArray(list1):
     currentSum = 0
